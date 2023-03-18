@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Shan Xue</title>
+    <title>Shan Xue (not finished yet)</title>
     <link>https://shanxue233.github.io/</link>
       <atom:link href="https://shanxue233.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Shan Xue</description>
+    <description>Shan Xue (not finished yet)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shanxue233.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Shan Xue</title>
+      <title>Shan Xue (not finished yet)</title>
       <link>https://shanxue233.github.io/</link>
     </image>
     
@@ -29,6 +29,51 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tailoring the Electron–Phonon Interaction in Au25(SR)18 Nanoclusters via Ligand Engineering and Insight into Luminescence</title>
+      <link>https://shanxue233.github.io/publication/aus/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://shanxue233.github.io/publication/aus/</guid>
+      <description>&lt;p&gt;Supplementary Information is here, including &lt;a href=&#34;https://pubs.acs.org/doi/suppl/10.1021/acsnano.2c06586/suppl_file/nn2c06586_si_001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Self-sacrificial tyrosine cleavage by an Fe:Mn oxygenase for the biosynthesis of para-aminobenzoate in Chlamydia trachomatis</title>
+      <link>https://shanxue233.github.io/publication/cadd/</link>
+      <pubDate>Wed, 24 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://shanxue233.github.io/publication/cadd/</guid>
+      <description>&lt;p&gt;Supplementary Information is here, including &lt;a href=&#34;https://www.pnas.org/doi/10.1073/pnas.2210908119#supplementary-materials&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mechanism of Methyldehydrofosmidomycin Maturation: Use Olefination to Enable Chain Elongation</title>
+      <link>https://shanxue233.github.io/publication/dfmd/</link>
+      <pubDate>Thu, 28 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://shanxue233.github.io/publication/dfmd/</guid>
+      <description>&lt;p&gt;Supplementary Information is here, including &lt;a href=&#34;https://pubs.acs.org/doi/suppl/10.1021/jacs.2c01924/suppl_file/ja2c01924_si_001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>BesC Initiates C–C Cleavage through a Substrate-Triggered and Reactive Diferric-Peroxo Intermediate</title>
+      <link>https://shanxue233.github.io/publication/besc/</link>
+      <pubDate>Mon, 13 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://shanxue233.github.io/publication/besc/</guid>
+      <description>&lt;p&gt;Supplementary Information is here, including &lt;a href=&#34;https://pubs.acs.org/doi/suppl/10.1021/jacs.1c11109/suppl_file/ja1c11109_si_001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deciphering pyrrolidine and olefin formation mechanism in kainic acid biosynthesis</title>
+      <link>https://shanxue233.github.io/publication/kabc/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://shanxue233.github.io/publication/kabc/</guid>
+      <description>&lt;p&gt;Supplementary Information is here, including &lt;a href=&#34;https://pubs.acs.org/doi/suppl/10.1021/acscatal.0c03879/suppl_file/cs0c03879_si_001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -109,6 +154,15 @@
 &lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
 &lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Alternative Reactivity of Leucine 5-Hydroxylase Using an Olefin-Containing Substrate to Construct a Substituted Piperidine Ring</title>
+      <link>https://shanxue233.github.io/publication/ldoa/</link>
+      <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://shanxue233.github.io/publication/ldoa/</guid>
+      <description>&lt;p&gt;Supplementary Information is here, including &lt;a href=&#34;https://pubs.acs.org/doi/suppl/10.1021/acs.biochem.0c00289/suppl_file/bi0c00289_si_001.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;data&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -216,7 +270,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-367928415&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-792485613&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -226,7 +280,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-367928415&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-792485613&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -723,44 +777,6 @@ $$&lt;/p&gt;
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://shanxue233.github.io/project/external-project/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>An example journal article</title>
-      <link>https://shanxue233.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://shanxue233.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://shanxue233.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://shanxue233.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>

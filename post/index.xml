@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Shan Xue</title>
+    <title>Posts | Shan Xue (not finished yet)</title>
     <link>https://shanxue233.github.io/post/</link>
       <atom:link href="https://shanxue233.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
@@ -196,7 +196,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-367928415&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-792485613&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-367928415&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-792485613&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
